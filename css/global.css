@@ -36,12 +36,12 @@ a:hover {
 }
 
 .button-primary {
-  background-color: var(--primary);
-  border-color: var(--primary);
+  background-color:#ff2623;
+  border-color: #ff2623;
 }
 
 .button-primary:hover {
-  background-color: var(--primary-dark);
+  background-color: green;
   border-color: var(--primary-dark);
 }
 
