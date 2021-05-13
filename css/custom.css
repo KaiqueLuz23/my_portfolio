@@ -40,7 +40,7 @@ body {
 }
 
 #slider {
-  background: url(../assets/slider-bg.svg) no-repeat center bottom;
+  background: url(../assets/slider-bg.png) no-repeat center bottom;
   background-size: contain;
 }
 
