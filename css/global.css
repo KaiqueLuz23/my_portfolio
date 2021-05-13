@@ -41,18 +41,18 @@ a:hover {
 }
 
 .button-primary:hover {
-  background-color: green;
-  border-color: var(--primary-dark);
+  background-color:#474A51;
+  border-color: #474A51;
 }
 
 .button-primary-outline {
-  border-color: var(--primary);
-  color: var(--primary);
+  border-color: #474A51;
+  color: #474A51;
 }
 
 .button-primary-outline:hover {
-  background-color: var(--primary-dark);
-  border-color: var(--primary-dark);
+  background-color: #ff2623;
+  border-color: #ff2623);
 }
 
 .owl-theme .owl-dots .owl-dot.active span,
