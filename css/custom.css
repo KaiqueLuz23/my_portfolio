@@ -134,7 +134,7 @@ body {
 }
 
 #clientes .cliente-texto .imagem span {
-  color: var(--secondary);
+  color: #ff2623;
   font-size: 110px;
   line-height: 110px;
   letter-spacing: -10px;
