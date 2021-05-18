@@ -187,7 +187,7 @@ body {
 }
 
 #servicos .button-group button.active {
-  color: var(--primary);
+  color: #ff2623;
 }
 
 #depoimentos .depoimento {
